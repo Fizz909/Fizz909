@@ -1,7 +1,7 @@
           
 <h1 align="left">Hi Welcome to my GitHub 🤡 </h1>
 
-<p align="left">Olá, me chamo Fizz909, sou desenvolvedor fullstack júnior freelancer. Tenho conhecimento em JavaScript, Python, PHP, HTML, CSS, React e C++. Possuo boas habilidades de comunicação e já trabalhei em equipe. Em meu portfólio, apresento sites e bots que desenvolvi, além do meu próprio projeto publicado chamado ClownBoo.</p>
+<p align="left">Hi, my name is Fizz909, and I'm a freelance junior full-stack developer. I'm proficient in JavaScript, Python, PHP, HTML, CSS, React, and C++. I have strong communication skills and have worked in teams. My portfolio includes websites and bots I've developed, as well as my own published project, ClownBoo.</p>
 
 ##
 
@@ -23,13 +23,13 @@
 
 ##
 
-<h3 align="left"> Me chame!! ↓</h3>
+<h3 align="left"> Call me!! ↓</h3>
 
 <div> 
   <a href="https://www.youtube.com/@FizzDev01" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fizzh.h_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/S4v3r2uhjN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:y16737305@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://fizzboo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-FizzSite-%23333?style=for-the-badge&logo=https://fizzboo.netlify.app/img/fth.png&logoColor=white" target="_blank"></a> 
+  <a href="https://fizzboo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-WebSite-%23333?style=for-the-badge&logo=https://fizzboo.netlify.app/img/fth.png&logoColor=white" target="_blank"></a> 
   
 </div>
