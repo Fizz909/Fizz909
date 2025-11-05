@@ -1,7 +1,7 @@
           
 <h1 align="left">Hi Welcome to my GitHub 🤡 </h1>
 
-<p align="left">Hi, my name is Fizz909, and I'm developer junior full-stack. I'm proficient in JavaScript, Python, PHP, HTML, CSS, React, and C++. I have strong communication skills and have worked in teams. My portfolio includes websites and bots I've developed, as well as my own published project, ClownBoo.</p>
+<p align="left">Hi, my name is Fizz909, and I'm developer junior full-stack. I'm proficient in JavaScript, Python, PHP, HTML, CSS, and C++. I have strong communication skills and have worked in teams. My portfolio includes websites and bots I've developed, as well as my own published project, ClownBoo.</p>
 
 ##
 
